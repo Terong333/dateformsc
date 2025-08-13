@@ -1,5 +1,3 @@
----
-
 ```markdown
 # ​ Validasi Tanggal HTML
 
