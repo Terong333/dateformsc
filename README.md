@@ -1,6 +1,3 @@
----
-
-```markdown
 # ​ Validasi Tanggal HTML
 
 Batasi pilihan tanggal mulai **hari ini** sampai **X hari ke depan** (default: 15).
