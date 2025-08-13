@@ -44,4 +44,3 @@ Batasi pilihan tanggal mulai **hari ini** sampai **X hari ke depan** (default: 1
 ##  Cocok untuk
 
 Form seperti: booking, reservasi, jadwal, deadline, dan banyak lagi.
-```
