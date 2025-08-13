@@ -30,7 +30,6 @@ Batasi pilihan tanggal mulai **hari ini** sampai **X hari ke depan** (default: 1
 <script>
   window.dateValidationConfig = { maxDays: 7 };
 </script>
-<script src="script.js"></script>
 ```
 
 ---
@@ -46,5 +45,3 @@ Batasi pilihan tanggal mulai **hari ini** sampai **X hari ke depan** (default: 1
 
 Form seperti: booking, reservasi, jadwal, deadline, dan banyak lagi.
 ```
-
----
